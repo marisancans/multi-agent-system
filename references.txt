@@ -1,0 +1,9 @@
+ctl utility: https://prosody.im/doc/prosodyctl
+prosody setup: https://www.cyberpunk.rs/prosody-server-setup-0-10-xmpp
+prosody setup: https://www.linuxbabe.com/ubuntu/install-configure-prosody-xmpp-server-ubuntu-20-04
+
+    sudo apt install prosody
+    systemctl status prosody
+
+    sudo systemctl start prosody
+
